@@ -1,1 +1,2 @@
-# code-projects
+# my-first-repository
+My Repository
